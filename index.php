@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/15puzzle.css">
     <script src="js/jquery-3.1.1.js" charset="utf-8"></script>
-    <script src="js/15puzzle.js" charset="utf-8"></script>
+    <script src="js/15puzzlev2.js" charset="utf-8"></script>
   </head>
   <body>
   <div class="game">
